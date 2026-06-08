@@ -52,7 +52,7 @@ Sistema de escritorio para la gestión integral de internación, facturación y 
 
 | Login | Pacientes | Internación | Detalle de Prácticas |
 |---|---|---|---|
-| ![Login](sistema-gestion-nivel2/screenshots/login.png) | ![Pacientes](sistema-gestion-nivel2/screenshots/pacientes.png) | ![Internación](sistema-gestion-nivel2/screenshots/internacion.png) | ![Facturación](sistema-gestion-nivel2/screenshots/facturacion.png) |
+| ![Login](sistema-gestion-nivel2/screenshots/login.jpeg) | ![Pacientes](sistema-gestion-nivel2/screenshots/pacientes.png) | ![Internación](sistema-gestion-nivel2/screenshots/internacion.png) | ![Facturación](sistema-gestion-nivel2/screenshots/facturacion.png) |
 
 ---
 
