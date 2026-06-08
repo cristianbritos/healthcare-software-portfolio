@@ -30,7 +30,7 @@ Sistema de escritorio para la gestión integral de facturación, liquidación de
 ### Capturas
 | Login | Facturación | Pacientes | Liquidación |
 |---|---|---|---|
-| ![Login](odontologico/screenshots/principal.png) | ![Facturación](odontologico/screenshots/facturar.png) | ![Pacientes](odontologico/screenshots/pacientes.png) | ![Liquidación](odontologico/screenshots/liquidar.png) |
+| ![Login](sistema-gestion-odontologico/screenshots/principal.png) | ![Facturación](sistema-gestion-odontologico/screenshots/facturar.png) | ![Pacientes](sistema-gestion-odontologico/screenshots/pacientes.png) | ![Liquidación](sistema-gestion-odontologico/screenshots/liquidar.png) |
 
 ---
 
@@ -52,7 +52,7 @@ Sistema de escritorio para la gestión integral de internación, facturación y 
 
 | Login | Pacientes | Internación | Detalle de Prácticas |
 |---|---|---|---|
-| ![Login](clinica/screenshots/login.png) | ![Pacientes](clinica/screenshots/pacientes.png) | ![Internación](clinica/screenshots/internacion.png) | ![Facturación](clinica/screenshots/facturacion.png) |
+| ![Login](sistema-gestion-nivel2/screenshots/login.png) | ![Pacientes](sistema-gestion-nivel2/screenshots/pacientes.png) | ![Internación](sistema-gestion-nivel2/screenshots/internacion.png) | ![Facturación](sistema-gestion-nivel2/screenshots/facturacion.png) |
 
 ---
 
